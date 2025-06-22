@@ -1,4 +1,4 @@
-# 🌀 Rush Heroes
+# 🌀 Rush Heroes https://rushheroes.onrender.com/
 
 **Rush Heroes** é um jogo casual de RPG estratégico baseado em heróis, atualmente em desenvolvimento como um site utilizando **Next.js** com **TypeScript**, com planos para se tornar um aplicativo mobile futuramente. Inspirado por títulos consagrados como **AFK Arena** e **Summoners War**, Rush Heroes oferece uma experiência simplificada porém viciante de batalhas, evolução de personagens e colecionismo.
 
