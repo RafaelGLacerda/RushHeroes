@@ -54,14 +54,4 @@ O projeto **Rush Heroes** está em constante desenvolvimento. Abaixo estão os p
 
 > ⚔️ **Rush Heroes** — Colecione. Evolua. Vença.
 
----
 
-## 📦 Instalação Local
-
-Clone o repositório e rode o projeto localmente:
-
-```bash
-git clone https://github.com/RafaelGLacerda/RushHeroes.git
-cd RushHeroes
-npm install
-npm run dev
